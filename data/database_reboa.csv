@@ -1,0 +1,108 @@
+"","codigo","age","penetrating_mechanism","sbp","hr","rr","glasgow_score","ao","iss","tca","reboa","survival_time","sex","type_trauma","mortality_28","mortality_7","mortalidad_24h","tca_binomial","reboa_binomial","penetrating"
+"1",486,17,"Arma de fuego",0,0,0,3,2014,29,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"2",485,56,"Arma de fuego",0,0,0,3,2015,29,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"3",483,45,"Arma de fuego",60,135,48,14,2015,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"4",482,29,"Arma de fuego",150,121,10,15,2015,25,"Paro","Pinza",2,"Masculino","Penetrante",1,1,1,1,0,1
+"5",479,18,"Arma de fuego",60,110,24,NA,2015,NA,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"6",475,20,"Arma de fuego",50,130,16,3,2016,25,"Paro","Pinza",34,"Masculino","Penetrante",1,1,0,1,0,1
+"7",474,49,"Arma de fuego",40,60,20,3,2016,41,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"8",473,32,"Arma cortopunzante",0,0,0,3,2016,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"9",472,37,"Arma cortopunzante",87,115,26,9,2016,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"10",469,44,"Arma de fuego",53,145,26,15,2016,41,"No paro","Pinza",20,"Masculino","Penetrante",1,1,1,0,0,1
+"11",468,26,"Arma cortopunzante",0,0,0,3,2016,25,"Paro","Pinza",8,"Masculino","Penetrante",1,1,1,1,0,1
+"12",467,21,"Arma de fuego",0,0,0,NA,2016,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"13",464,31,"Arma de fuego",60,102,26,NA,2016,35,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"14",463,23,"Arma cortopunzante",100,126,24,7,2016,25,"Paro","Pinza",6,"Masculino","Penetrante",1,1,1,1,0,1
+"15",460,23,"Arma de fuego",0,0,0,3,2017,34,"Paro","Pinza",3,"Masculino","Penetrante",1,1,1,1,0,1
+"16",459,19,"Arma cortopunzante",102,90,40,10,2017,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"17",408,16,"Arma de fuego",0,0,0,8,2017,25,"Paro","Pinza",8,"Masculino","Penetrante",1,1,1,1,0,1
+"18",405,41,"Arma de fuego",20,140,2,15,2017,50,"Paro","Pinza",5,"Masculino","Penetrante",1,1,1,1,0,1
+"19",403,32,"Arma cortopunzante",0,0,0,14,2017,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"20",399,18,"Arma de fuego",80,45,25,NA,2014,16,"No paro","Pinza",8,"Masculino","Penetrante",1,1,1,0,0,1
+"21",394,27,"Arma de fuego",0,0,0,NA,2017,NA,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"22",391,26,"Arma cortopunzante",30,20,0,NA,2017,16,"Paro","Pinza",2,"Masculino","Penetrante",1,1,1,1,0,1
+"23",386,29,"Arma de fuego",0,116,0,3,2017,25,"Paro","Pinza",1,"Femenino","Penetrante",1,1,1,1,0,1
+"24",384,33,"Arma de fuego",0,0,0,NA,2017,16,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"25",382,55,"Arma de fuego",0,0,0,NA,2017,41,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"26",380,34,"Arma de fuego",0,0,0,11,2017,25,"Paro","Pinza",3,"Masculino","Penetrante",0,0,0,1,0,1
+"27",297,30,"Arma de fuego",0,0,0,NA,2018,50,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"28",294,22,"Arma de fuego",128,120,20,8,2018,20,"No paro","Pinza",120,"Masculino","Penetrante",0,0,0,0,0,1
+"29",292,27,NA,67,120,20,NA,2014,27,"Paro","Pinza",2,"Femenino","Cerrado",1,1,1,1,0,0
+"30",290,40,"Arma de fuego",0,0,0,NA,2018,16,"Paro","Pinza",48,"Masculino","Penetrante",1,1,0,1,0,1
+"31",288,42,"Arma de fuego",72,155,12,3,2018,34,"Paro","Pinza",2,"Masculino","Penetrante",1,1,1,1,0,1
+"32",285,42,"Arma de fuego",0,0,0,3,2014,16,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"33",283,43,"Arma de fuego",0,98,0,3,2014,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"34",274,27,NA,67,120,20,NA,2014,34,"Paro","Pinza",1,"Femenino","Cerrado",1,1,1,1,0,0
+"35",259,19,"Arma de fuego",99,113,26,15,2016,20,"Paro","Pinza",192,"Masculino","Penetrante",0,0,0,1,0,1
+"36",242,55,"Arma de fuego",37,53,13,14,2015,16,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"37",223,20,"Arma de fuego",70,120,26,NA,2016,NA,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"38",208,30,"Arma de fuego",50,32,12,5,2016,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"39",205,17,"Arma de fuego",75,132,23,15,2014,18,"Paro","Pinza",144,"Masculino","Penetrante",0,0,0,1,0,1
+"40",197,22,"Arma de fuego",80,134,20,8,2016,34,"Paro","Pinza",1,"Femenino","Penetrante",1,1,1,1,0,1
+"41",194,32,"Arma de fuego",0,0,0,8,2016,41,"Paro","Pinza",888,"Masculino","Penetrante",0,0,0,1,0,1
+"42",180,17,"Arma cortopunzante",87,108,23,15,2016,25,"Paro","Pinza",96,"Masculino","Penetrante",0,0,0,1,0,1
+"43",170,33,"Arma de fuego",75,65,31,15,2017,16,"No paro","Pinza",312,"Masculino","Penetrante",0,0,0,0,0,1
+"44",167,34,"Arma de fuego",0,0,0,NA,2017,33,"Paro","Pinza",720,"Masculino","Penetrante",0,0,0,1,0,1
+"45",160,31,"Arma cortopunzante",80,120,24,NA,2017,25,"Paro","Pinza",336,"Masculino","Penetrante",0,0,0,1,0,1
+"46",150,53,"Arma de fuego",100,70,16,3,2017,20,"Paro","Pinza",384,"Masculino","Penetrante",0,0,0,1,0,1
+"47",126,37,"Arma cortopunzante",10,132,25,15,2017,25,"Paro","Pinza",18,"Femenino","Penetrante",1,1,1,1,0,1
+"48",119,19,"Arma de fuego",63,140,36,15,2017,25,"No paro","Pinza",216,"Masculino","Penetrante",0,0,0,0,0,1
+"49",82,38,"Arma cortopunzante",0,0,0,3,2018,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"50",39,30,"Arma cortopunzante",0,34,20,NA,2014,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"51",36,40,"Arma de fuego",60,110,16,14,2015,25,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"52",31,20,"Arma de fuego",53,158,25,8,2015,43,"Paro","Pinza",1,"Masculino","Penetrante",1,1,1,1,0,1
+"53",29,31,"Arma cortopunzante",123,83,23,15,2015,25,"No paro","Pinza",96,"Masculino","Penetrante",0,0,0,0,0,1
+"54",24,23,"Arma cortopunzante",0,88,0,NA,2015,25,"Paro","Pinza",NA,"Masculino","Penetrante",0,0,0,1,0,1
+"55",22,26,"Arma de fuego",77,116,24,15,2018,16,"Paro","Pinza",240,"Masculino","Penetrante",0,0,0,1,0,1
+"56",18,23,"Arma de fuego",80,124,22,NA,2015,25,"Paro","Pinza",744,"Masculino","Penetrante",0,0,0,1,0,1
+"57",16,40,"Arma de fuego",80,45,16,13,2015,25,"No paro","Pinza",864,"Masculino","Penetrante",0,0,0,0,0,1
+"58",413,48,"Arma de fuego",69,143,25,15,2018,25,"Paro","REBOA",4,"Masculino","Penetrante",1,1,1,1,1,1
+"59",412,52,"Arma de fuego",100,54,8,3,2018,25,"Paro","REBOA",1,"Masculino","Penetrante",1,1,1,1,1,1
+"60",411,28,"Arma de fuego",52,113,22,15,2018,29,"No paro","REBOA",240,"Masculino","Penetrante",0,0,0,0,1,1
+"61",410,34,"Arma de fuego",130,109,26,15,2018,13,"No paro","REBOA",576,"Masculino","Penetrante",0,0,0,0,1,1
+"62",409,15,"Arma de fuego",121,120,20,13,2018,16,"No paro","REBOA",144,"Masculino","Penetrante",0,0,0,0,1,1
+"63",408,36,NA,58,120,30,14,2018,34,"No paro","REBOA",792,"Masculino","Cerrado",0,0,0,0,1,0
+"64",407,27,NA,20,172,8,14,2018,9,"No paro","REBOA",7056,"Masculino","Cerrado",0,0,0,0,1,0
+"65",406,15,NA,71,136,23,13,2018,25,"No paro","REBOA",11,"Masculino","Cerrado",1,1,1,0,1,0
+"66",405,28,NA,88,110,20,14,2018,27,"No paro","REBOA",216,"Femenino","Cerrado",0,0,0,0,1,0
+"67",404,72,NA,0,0,0,3,2018,25,"Paro","REBOA",14,"Masculino","Cerrado",1,1,1,1,1,0
+"68",403,24,"Arma de fuego",73,127,19,6,2018,50,"No paro","REBOA",456,"Masculino","Penetrante",0,0,0,0,1,1
+"69",40,49,NA,60,130,28,7,2018,25,"No paro","REBOA",3,"Femenino","Cerrado",1,1,1,0,1,0
+"70",39,45,NA,40,102,28,7,2016,25,"No paro","REBOA",26,"Masculino","Cerrado",1,1,0,0,1,0
+"71",38,61,NA,0,0,0,3,2016,25,"Paro","REBOA",10,"Masculino","Cerrado",1,1,1,1,1,0
+"72",37,25,NA,90,120,20,15,2016,54,"No paro","REBOA",37,"Masculino","Cerrado",1,1,0,0,1,0
+"73",36,44,"Arma de fuego",53,145,26,15,2016,50,"No paro","REBOA",21,"Masculino","Penetrante",1,1,1,0,1,1
+"74",35,21,"Arma de fuego",80,102,22,14,2016,29,"Paro","REBOA",5,"Masculino","Penetrante",1,1,1,1,1,1
+"75",34,39,NA,102,34,28,13,2016,25,"Paro","REBOA",18,"Masculino","Cerrado",1,1,1,1,1,0
+"76",33,53,NA,11,104,18,3,2015,66,"No paro","REBOA",216,"Femenino","Cerrado",1,0,0,0,1,0
+"77",32,23,"Arma de fuego",50,97,25,8,2015,54,"No paro","REBOA",31,"Masculino","Penetrante",1,1,0,0,1,1
+"78",31,56,"Arma de fuego",60,93,25,15,2018,26,"No paro","REBOA",264,"Masculino","Penetrante",0,0,0,0,1,1
+"79",30,39,"Arma de fuego",69,77,20,15,2017,25,"No paro","REBOA",264,"Masculino","Penetrante",0,0,0,0,1,1
+"80",29,47,"Arma de fuego",58,90,22,15,2017,25,"No paro","REBOA",864,"Masculino","Penetrante",0,0,0,0,1,1
+"81",28,62,"Arma cortopunzante",58,94,22,8,2017,29,"No paro","REBOA",1632,"Masculino","Penetrante",0,0,0,0,1,1
+"82",27,25,"Arma cortopunzante",82,102,21,3,2017,32,"No paro","REBOA",264,"Masculino","Penetrante",0,0,0,0,1,1
+"83",26,38,"Arma de fuego",65,45,14,3,2017,25,"Paro","REBOA",4,"Masculino","Penetrante",1,1,1,1,1,1
+"84",25,22,"Arma de fuego",60,110,26,14,2017,25,"No paro","REBOA",264,"Masculino","Penetrante",0,0,0,0,1,1
+"85",24,23,"Arma de fuego",76,110,22,15,2017,16,"No paro","REBOA",528,"Femenino","Penetrante",0,0,0,0,1,1
+"86",23,20,"Arma de fuego",88,98,34,15,2017,41,"No paro","REBOA",168,"Masculino","Penetrante",0,0,0,0,1,1
+"87",21,47,"Arma de fuego",149,113,34,15,2017,25,"No paro","REBOA",840,"Masculino","Penetrante",0,0,0,0,1,1
+"88",20,23,"Arma de fuego",73,132,18,13,2017,50,"Paro","REBOA",1296,"Masculino","Penetrante",0,0,0,1,1,1
+"89",19,18,"Arma de fuego",45,120,30,11,2017,25,"No paro","REBOA",600,"Femenino","Penetrante",0,0,0,0,1,1
+"90",18,34,"Arma cortopunzante",56,92,22,15,2016,25,"No paro","REBOA",456,"Femenino","Penetrante",0,0,0,0,1,1
+"91",17,22,"Arma de fuego",60,139,22,8,2016,25,"No paro","REBOA",600,"Masculino","Penetrante",0,0,0,0,1,1
+"92",16,45,"Arma cortopunzante",60,104,30,13,2016,25,"No paro","REBOA",120,"Femenino","Penetrante",0,0,0,0,1,1
+"93",15,19,"Arma cortopunzante",70,83,16,15,2016,50,"No paro","REBOA",264,"Masculino","Penetrante",0,0,0,0,1,1
+"94",14,32,"Arma de fuego",80,160,20,15,2016,41,"No paro","REBOA",192,"Masculino","Penetrante",0,0,0,0,1,1
+"95",13,20,NA,100,105,20,15,2016,27,"No paro","REBOA",672,"Masculino","Cerrado",0,0,0,0,1,0
+"96",12,32,NA,56,135,20,8,2016,75,"Paro","REBOA",1656,"Masculino","Cerrado",0,0,0,1,1,0
+"97",11,46,"Arma cortopunzante",40,83,24,13,2016,25,"No paro","REBOA",192,"Masculino","Penetrante",0,0,0,0,1,1
+"98",10,28,"Arma de fuego",56,132,25,8,2016,25,"No paro","REBOA",624,"Masculino","Penetrante",0,0,0,0,1,1
+"99",9,35,"Arma cortopunzante",74,104,26,15,2016,25,"No paro","REBOA",120,"Masculino","Penetrante",0,0,0,0,1,1
+"100",8,33,"Arma de fuego",95,115,26,14,2016,50,"Paro","REBOA",2,"Masculino","Penetrante",1,1,1,1,1,1
+"101",7,25,"Arma de fuego",61,119,19,15,2016,25,"No paro","REBOA",528,"Masculino","Penetrante",0,0,0,0,1,1
+"102",6,35,"Arma de fuego",100,126,28,15,2015,25,"No paro","REBOA",768,"Masculino","Penetrante",0,0,0,0,1,1
+"103",5,44,NA,95,135,20,15,2015,43,"No paro","REBOA",1680,"Masculino","Cerrado",0,0,0,0,1,0
+"104",4,48,"Arma de fuego",101,134,20,13,2015,25,"No paro","REBOA",336,"Femenino","Penetrante",0,0,0,0,1,1
+"105",3,16,NA,80,117,20,14,2015,25,"No paro","REBOA",216,"Masculino","Cerrado",0,0,0,0,1,0
+"106",2,19,"Arma de fuego",113,135,24,15,2014,25,"No paro","REBOA",408,"Masculino","Penetrante",0,0,0,0,1,1
+"107",1,28,NA,62,134,22,15,2014,41,"No paro","REBOA",240,"Masculino","Cerrado",0,0,0,0,1,0
