@@ -13,7 +13,7 @@ library(gridExtra)
 database <- read_excel("data/REBOA_Acreta_Database.xlsx", 
                                     sheet = "Sheet2")
 
-apply(database,2,median)
+apply(database,2,sd)
 
 database$delta1 <- (database$pos1 - database$p1) / database$p1
 
@@ -127,6 +127,6 @@ hypo2 <-graph+
                               "P9","P15") ) 
 
 
-png("figures/PAS.png", res = 100)
+png("figures/PAS.png", units = "px", width = 1200, height = 630)
 grid.arrange(hypo1, hypo2, nrow= 1)
 dev.off()

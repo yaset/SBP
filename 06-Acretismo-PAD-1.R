@@ -125,6 +125,6 @@ hypo2 <-graph+
                               "P4","P5","P6","P7","P8",
                               "P9","P15") ) 
 
-png("figures/PAD.png", res = 300)
+png("figures/PAD.png", units = "px", width = 1200, height = 630)
 grid.arrange(hypo1, hypo2, nrow= 1)
 dev.off()
